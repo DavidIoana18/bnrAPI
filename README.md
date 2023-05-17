@@ -1,4 +1,6 @@
 USE NODE.JS VERSION 14
+
+FIRST USE npm install ==> to install node_modules
  
  
 GET http://localhost:3000/currencies/2023-05-16  --> for get currencies 
