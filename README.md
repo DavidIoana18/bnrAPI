@@ -1,4 +1,3 @@
-USE NODE.JS VERSION 14
 
 FIRST USE npm install ==> to install node_modules
  
